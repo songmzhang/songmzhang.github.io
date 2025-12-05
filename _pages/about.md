@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍💻 About Me
-I am now a third-year PhD student in Beijing Jiaotong University, advised by Prof. Yufeng Chen and Prof. Jinan Xu. Before that, I started my master's degree in 2020 and transferred to the doctoral program in 2022. I am now interning at WeChat, Tencent, working on LLM safety.
+I am now a final-year PhD student in Beijing Jiaotong University, advised by Prof. Yufeng Chen and Prof. Jinan Xu. Before that, I started my master's degree in 2020 and transferred to the doctoral program in 2022. I am now interning at WeChat, Tencent, working on LLM safety.
 
-My research interest is mainly on training algorithms for LLMs, especially the ones that enhance the model capacity without scaling up the model size, like knowledge distillation and RL techniques. Now I am also interested in LLM safety, seeking the balance between model safety and model intelligence.
+My research interest is mainly on designing better training algorithms for LLMs, especially the ones that enhance the model capacity without scaling up the model size, e.g., knowledge distillation, alignment and RL algorithms. Now I am also interested in LLM safety alignment, seeking the balance between model safety and model intelligence.
 
 
 # 🔥 News
@@ -88,3 +88,4 @@ for Neural Machine Translation](https://arxiv.org/abs/2305.08096) (**ACL 2023 Ma
 
 # 🎖 Honors and Awards
 - *2025*, National Scholarship. 
+- *2022*, 1st/3rd Place (Auto/Human Evaluation) in LIC2022 Knowledge-Augmented Dialogue Track.
