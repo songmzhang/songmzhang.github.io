@@ -24,6 +24,7 @@ My research interest is mainly on designing better training algorithms for LLMs,
 
 
 # 🔥 News
+- *2026.03*: We have open-source an efficient LLM knowledge distillation framework [KDFlow](https://github.com/songmzhang/KDFlow)! Welcome to try!
 - *2025.05*: &nbsp;🎉🎉 Two papers have been accepted by ACL2025! See you in Vienna. 
 - *2025.03*: [DSKDv2](https://arxiv.org/abs/2504.11426) has been released on arxiv. 
 - *2024.09*: &nbsp;🎉🎉 [DSKD](https://arxiv.org/abs/2406.17328) has been accepted by EMNLP2024! 
@@ -33,6 +34,10 @@ My research interest is mainly on designing better training algorithms for LLMs,
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Preprint
+
+- [KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models](https://arxiv.org/pdf/2603.01875)
+  **Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu
+
 
 - [A Dual-Space Framework for General Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2504.11426)
 
