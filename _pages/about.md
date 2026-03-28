@@ -42,6 +42,11 @@ My research interest is mainly on designing better training algorithms for LLMs,
 
 **Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu
 
+A lightweight and comprehensive LLM distillation framework that supports:
+- off/on-policy distillation
+- cross-tokenizer distillation
+- multimodal LLM distillation
+
 </div>
 </div>
 
