@@ -42,6 +42,8 @@ My research interest is mainly on designing better training algorithms for LLMs,
 
 **Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu
 
+[[GitHub]](https://github.com/songmzhang/KDFlow)
+
 A lightweight and comprehensive LLM distillation framework that supports:
 - off/on-policy distillation
 - cross-tokenizer distillation
@@ -57,6 +59,8 @@ A lightweight and comprehensive LLM distillation framework that supports:
 
 Xue Zhang*, **Songming Zhang\***, Yunlong Liang, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou
 
+[[GitHub]](https://github.com/songmzhang/DSKDv2)
+
 </div>
 </div>
 
@@ -71,6 +75,8 @@ Xue Zhang*, **Songming Zhang\***, Yunlong Liang, Fandong Meng, Yufeng Chen, Jina
 
 **Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu
 
+[[GitHub]](https://github.com/songmzhang/AlignDistil)
+
 </div>
 </div>
 
@@ -80,6 +86,8 @@ Xue Zhang*, **Songming Zhang\***, Yunlong Liang, Fandong Meng, Yufeng Chen, Jina
 [Dual-Space Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2406.17328) (**EMNLP 2024 Main**)
 
 **Songming Zhang**, Xue Zhang, Zengkui Sun, Yufeng Chen, Jinan Xu
+
+[[GitHub]](https://github.com/songmzhang/DSKD)
 
 </div>
 </div>
@@ -91,6 +99,8 @@ Xue Zhang*, **Songming Zhang\***, Yunlong Liang, Fandong Meng, Yufeng Chen, Jina
 
 **Songming Zhang**, Yunlong Liang, Shuaibo Wang, Yufeng Chen, Wenjuan Han, Jian Liu, Jinan Xu
 
+[[GitHub]](https://github.com/songmzhang/NMT-KD)
+
 </div>
 </div>
 
@@ -100,6 +110,8 @@ Xue Zhang*, **Songming Zhang\***, Yunlong Liang, Fandong Meng, Yufeng Chen, Jina
 [Conditional Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation](https://arxiv.org/abs/2203.02951) (**ACL 2022 Main**)
 
 **Songming Zhang\***, Yijin Liu*, Fandong Meng, Yufeng Chen, Jinan Xu, Jian Liu, Jie Zhou
+
+[[GitHub]](https://github.com/songmzhang/CBMI)
 
 </div>
 </div>
