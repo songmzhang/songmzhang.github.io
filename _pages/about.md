@@ -35,35 +35,69 @@ My research interest is mainly on designing better training algorithms for LLMs,
 <!-- <div class='paper-box-text' markdown="1"> -->
 ## Preprint
 
-- [KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models](https://arxiv.org/pdf/2603.01875)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/kdflow.png' alt="KDFlow" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  **Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu
+[KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models](https://arxiv.org/pdf/2603.01875) [![GitHub Stars](https://img.shields.io/github/stars/songmzhang/KDFlow?style=social)](https://github.com/songmzhang/KDFlow)
 
+**Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu
 
-- [A Dual-Space Framework for General Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2504.11426)
+</div>
+</div>
 
-  Xue Zhang*, **Songming Zhang\***, Yunlong Liang, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/dskdv2.jpg' alt="DSKDv2" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  ---
+[A Dual-Space Framework for General Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2504.11426)
+
+Xue Zhang*, **Songming Zhang\***, Yunlong Liang, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou
+
+</div>
+</div>
+
+---
 
 ## Publications
 
-- [AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation](https://arxiv.org/abs/2503.02832) (**ACL 2025 Main**)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/aligndistil.png' alt="AlignDistil" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  **Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu
+[AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation](https://arxiv.org/abs/2503.02832) (**ACL 2025 Main**)
 
-- [Dual-Space Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2406.17328) (**EMNLP 2024 Main**)
+**Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu
 
-  **Songming Zhang**, Xue Zhang, Zengkui Sun, Yufeng Chen, Jinan Xu
+</div>
+</div>
 
-- [Towards Understanding and Improving Knowledge Distillation
-for Neural Machine Translation](https://arxiv.org/abs/2305.08096) (**ACL 2023 Main**)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/dskd.png' alt="DSKD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-  **Songming Zhang**, Yunlong Liang, Shuaibo Wang, Yufeng Chen, Wenjuan Han, Jian Liu, Jinan Xu
+[Dual-Space Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2406.17328) (**EMNLP 2024 Main**)
 
-- [Conditional Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation](https://arxiv.org/abs/2203.02951) (**ACL 2022 Main**)
+**Songming Zhang**, Xue Zhang, Zengkui Sun, Yufeng Chen, Jinan Xu
 
-  **Songming Zhang\***, Yijin Liu*, Fandong Meng, Yufeng Chen, Jinan Xu, Jian Liu, Jie Zhou
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/nmt_kd.png' alt="Understanding KD" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Understanding and Improving Knowledge Distillation for Neural Machine Translation](https://arxiv.org/abs/2305.08096) (**ACL 2023 Main**)
+
+**Songming Zhang**, Yunlong Liang, Shuaibo Wang, Yufeng Chen, Wenjuan Han, Jian Liu, Jinan Xu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/cbmi.png' alt="CBMI" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Conditional Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation](https://arxiv.org/abs/2203.02951) (**ACL 2022 Main**)
+
+**Songming Zhang\***, Yijin Liu*, Fandong Meng, Yufeng Chen, Jinan Xu, Jian Liu, Jie Zhou
+
+</div>
+</div>
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
