@@ -34,10 +34,6 @@ My research interest is mainly on designing better training algorithms for LLMs,
 
 ## Preprint
 
-- [KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models](https://arxiv.org/pdf/2603.01875)<br>
-  **Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu<br>
-  [[GitHub]](https://github.com/songmzhang/KDFlow)
-
 - [A Dual-Space Framework for General Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2504.11426)<br>
   Xue Zhang*, **Songming Zhang\***, Yunlong Liang, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou<br>
   [[GitHub]](https://github.com/songmzhang/DSKDv2)
@@ -45,6 +41,10 @@ My research interest is mainly on designing better training algorithms for LLMs,
 ---
 
 ## Publications
+
+- [KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models](https://arxiv.org/pdf/2603.01875) (**EMNLP 2026 System Demonstrations**)<br>
+  **Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu<br>
+  [[GitHub]](https://github.com/songmzhang/KDFlow)
 
 - [AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation](https://arxiv.org/abs/2503.02832) (**ACL 2025 Main**)<br>
   **Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu<br>
