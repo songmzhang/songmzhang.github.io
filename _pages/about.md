@@ -18,12 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👨‍💻 About Me
-I am now a final-year PhD student in Beijing Jiaotong University, advised by Prof. Yufeng Chen and Prof. Jinan Xu. Before that, I started my master's degree in 2020 and transferred to the doctoral program in 2022. I am now interning at WeChat, Tencent, working on LLM safety.
+I am a researcher at WeChat Security, Tencent, working on LLM safety. I received my PhD from Beijing Jiaotong University, advised by Prof. Yufeng Chen and Prof. Jinan Xu. I began my master's studies in 2020 and transferred to the PhD program in 2022.
 
 My research interest is mainly on designing better training algorithms for LLMs, especially the ones that enhance the model capacity without scaling up the model size, e.g., knowledge distillation, alignment and RL algorithms. Now I am also interested in LLM safety alignment, seeking the balance between model safety and model intelligence.
 
 
 # 🔥 News
+- *2026.08*: 🎉 [KDFlow](https://github.com/songmzhang/KDFlow) has been accepted to EMNLP 2026 System Demonstrations! See you in Budapest!
 - *2026.03*: 📢 We have open-source an efficient LLM knowledge distillation framework [KDFlow](https://github.com/songmzhang/KDFlow)! Welcome to try!
 - *2025.05*: &nbsp;🎉🎉 Two papers have been accepted by ACL2025! See you in Vienna. 
 - *2025.03*: [DSKDv2](https://arxiv.org/abs/2504.11426) has been released on arxiv. 
@@ -31,102 +32,38 @@ My research interest is mainly on designing better training algorithms for LLMs,
 
 # 📝 Selected Papers [[Full]](https://scholar.google.com/citations?user=u_bYOuYAAAAJ&hl=zh-CN)
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
-<!-- <div class='paper-box-text' markdown="1"> -->
 ## Preprint
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/kdflow.png' alt="KDFlow" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models](https://arxiv.org/pdf/2603.01875)<br>
+  **Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu<br>
+  [[GitHub]](https://github.com/songmzhang/KDFlow)
 
-[KDFlow: A User-Friendly and Efficient Knowledge Distillation Framework for Large Language Models](https://arxiv.org/pdf/2603.01875) [![GitHub Stars](https://img.shields.io/github/stars/songmzhang/KDFlow?style=social)](https://github.com/songmzhang/KDFlow)
-
-**Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu
-
-[[GitHub]](https://github.com/songmzhang/KDFlow)
-
-A lightweight and comprehensive LLM distillation framework that supports:
-- off/on-policy distillation
-- cross-tokenizer distillation
-- multimodal LLM distillation
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/dskdv2.jpg' alt="DSKDv2" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Dual-Space Framework for General Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2504.11426)
-
-Xue Zhang*, **Songming Zhang\***, Yunlong Liang, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou
-
-[[GitHub]](https://github.com/songmzhang/DSKDv2)
-
-</div>
-</div>
+- [A Dual-Space Framework for General Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2504.11426)<br>
+  Xue Zhang*, **Songming Zhang\***, Yunlong Liang, Fandong Meng, Yufeng Chen, Jinan Xu, Jie Zhou<br>
+  [[GitHub]](https://github.com/songmzhang/DSKDv2)
 
 ---
 
 ## Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/aligndistil.png' alt="AlignDistil" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation](https://arxiv.org/abs/2503.02832) (**ACL 2025 Main**)<br>
+  **Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu<br>
+  [[GitHub]](https://github.com/songmzhang/AlignDistil)
 
-[AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation](https://arxiv.org/abs/2503.02832) (**ACL 2025 Main**)
+- [Dual-Space Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2406.17328) (**EMNLP 2024 Main**)<br>
+  **Songming Zhang**, Xue Zhang, Zengkui Sun, Yufeng Chen, Jinan Xu<br>
+  [[GitHub]](https://github.com/songmzhang/DSKD)
 
-**Songming Zhang**, Xue Zhang, Tong Zhang, Bojie Hu, Yufeng Chen, Jinan Xu
+- [Towards Understanding and Improving Knowledge Distillation for Neural Machine Translation](https://arxiv.org/abs/2305.08096) (**ACL 2023 Main**)<br>
+  **Songming Zhang**, Yunlong Liang, Shuaibo Wang, Yufeng Chen, Wenjuan Han, Jian Liu, Jinan Xu<br>
+  [[GitHub]](https://github.com/songmzhang/NMT-KD)
 
-[[GitHub]](https://github.com/songmzhang/AlignDistil)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/dskd.png' alt="DSKD" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Dual-Space Knowledge Distillation for Large Language Models](https://arxiv.org/abs/2406.17328) (**EMNLP 2024 Main**)
-
-**Songming Zhang**, Xue Zhang, Zengkui Sun, Yufeng Chen, Jinan Xu
-
-[[GitHub]](https://github.com/songmzhang/DSKD)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2023</div><img src='images/nmt_kd.png' alt="Understanding KD" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Towards Understanding and Improving Knowledge Distillation for Neural Machine Translation](https://arxiv.org/abs/2305.08096) (**ACL 2023 Main**)
-
-**Songming Zhang**, Yunlong Liang, Shuaibo Wang, Yufeng Chen, Wenjuan Han, Jian Liu, Jinan Xu
-
-[[GitHub]](https://github.com/songmzhang/NMT-KD)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2022</div><img src='images/cbmi.png' alt="CBMI" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Conditional Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation](https://arxiv.org/abs/2203.02951) (**ACL 2022 Main**)
-
-**Songming Zhang\***, Yijin Liu*, Fandong Meng, Yufeng Chen, Jinan Xu, Jian Liu, Jie Zhou
-
-[[GitHub]](https://github.com/songmzhang/CBMI)
-
-</div>
-</div>
-
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div> -->
-
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
+- [Conditional Bilingual Mutual Information Based Adaptive Training for Neural Machine Translation](https://arxiv.org/abs/2203.02951) (**ACL 2022 Main**)<br>
+  **Songming Zhang\***, Yijin Liu*, Fandong Meng, Yufeng Chen, Jinan Xu, Jian Liu, Jie Zhou<br>
+  [[GitHub]](https://github.com/songmzhang/CBMI)
 
 # 📖 Educations
-- *2022.09 - Now*, Beijing Jiaotong University, PhD Student. 
+- *2022.09 - 2026.06*, Beijing Jiaotong University, PhD.
 - *2020.09 - 2022.06*, Beijing Jiaotong University, Master.
 - *2016.09 - 2020.06*, Beijing University of Chemical Technology, Bachelor. 
 
@@ -134,8 +71,11 @@ Xue Zhang*, **Songming Zhang\***, Yunlong Liang, Fandong Meng, Yufeng Chen, Jina
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
+# 💼 Work Experience
+- *2026.07 - Present*, Researcher, WeChat Security, Tencent.
+
 # 💻 Internships
-- *2024.07 - Now*, WeChat, Tencent.
+- *2024.07 - 2026.06*, WeChat, Tencent.
 - *2022.02 - 2024.03*, TI Cloud Inc.
 - *2021.01 - 2022.01*, WeChat AI, Tencent.
 
